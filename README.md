@@ -94,6 +94,7 @@ pdf2htmlex -v
 
 --
 用法: pdf2htmlEX [options] <input.pdf> [<output.html>]  
+```bash
   -f,--first-page <int>         需要转换的起始页 (默认: 1)  
   -l,--last-page <int>          需要转换的最后一页 (默认: 2147483647)  
   --zoom <fp>                   缩放比例  
@@ -142,3 +143,4 @@ pdf2htmlex -v
   --debug <int>                 打印调试信息 (default: 0)  
   -v,--version                  打印版权和版本信息  
   -h,--help                     打印使用帮助信息
+```
